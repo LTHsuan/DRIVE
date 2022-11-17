@@ -1,5 +1,12 @@
 # DRIVE: Digital Retinal Images for Vessel Extraction
 
+## Requirements
+
+- Skimage
+- keras
+- os
+- glob
+
 ## Preparation
 
 The DRIVE dataset was already download from this [challenge page](https://drive.grand-challenge.org/).
